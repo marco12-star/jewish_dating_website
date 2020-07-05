@@ -27,7 +27,7 @@ body{
 
 .header{
 	font-family: Playfair Display SC, cursive;
-	background: url(../IMG/header_back.png) 0 100%/cover no-repeat fixed;
+	background: url(../img/header_back.png) 0 100%/cover no-repeat fixed;
 	text-align: center;
 }
 
@@ -295,7 +295,7 @@ body{
 
 .info{
 	padding: 15px 0;
-	background: url(../IMG/family.jpg) 50% 50%/cover no-repeat;
+	background: url(../img/family.jpg) 50% 50%/cover no-repeat;
 }
 
 .info__items{
