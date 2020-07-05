@@ -483,6 +483,7 @@ body{
 
 .feedbacks h3{
 	padding-top: 13px;
+	padding-left: 5px;
     font-size: 14px;
     color: rgb(22, 102, 241);
     white-space: nowrap;
