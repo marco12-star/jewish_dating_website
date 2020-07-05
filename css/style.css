@@ -1061,6 +1061,9 @@ body{
 	margin-left: 16px;
 	flex-direction: column;
 }
+.footer .flags a{
+	text-align: center;
+}
 
 /* FOOTER END */
 
